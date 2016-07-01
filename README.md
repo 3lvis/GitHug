@@ -1,1 +1,3 @@
 # GitHug
+
+GitHub for humans.
