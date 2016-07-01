@@ -1,3 +1,3 @@
 # GitHug
 
-I-might-not-even finish GitHub app.
+I-might-not-even-finish GitHub app.
