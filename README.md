@@ -1,3 +1,3 @@
 # GitHug
 
-GitHub for humans.
+I-might-not-even finish GitHub app.
